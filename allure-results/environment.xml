@@ -1,0 +1,10 @@
+<environment>
+    <parameter>
+        <key>Browser</key>
+        <value>Chrome</value>
+    </parameter>
+    <parameter>
+        <key>Browser.Version</key>
+        <value>88.0.4324.150</value>
+    </parameter>
+</environment>
